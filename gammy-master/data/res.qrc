@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>icons/Lock-Open-32.png</file>
+        <file>icons/Lock-32.png</file>
+        <file>icons/gammy.ico</file>
+    </qresource>
+</RCC>
